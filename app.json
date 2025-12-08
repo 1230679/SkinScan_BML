@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "SkinCancerDetector",
-    "slug": "SkinCancerDetector",
+    "name": "SkinScan",
+    "slug": "SkinScan",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "skincancerdetector",
+    "scheme": "skinScan",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
